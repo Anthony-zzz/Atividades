@@ -1,0 +1,20 @@
+exercício 1
+nome= input(string(Anthony))
+idade= input(int(20))
+altura= input(float(1,56))
+se idade > 18
+True= Maior de idade
+False= Menor de idade
+
+exercício 2
+num1=input("digite um numero")
+num2= input("digite um numero")
+operação= input(+, -, *,/)
+
+operação=
+Soma = num1 + num2
+subtração = num1 - num2
+multipilicação= num1 * num2
+divisão= num1/num2
+
+Print("operação")

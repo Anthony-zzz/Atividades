@@ -1,0 +1,38 @@
+exercício 3
+leia
+idade - "21"
+converta para número
+idade - 21
+
+exercício 4
+leia 
+base - 20
+altura - 10
+calcule a área
+calcule base x altura
+área - 200
+
+exercício 5
+escreva um número x
+escreva um número y
+escreva um número z
+leia as variáveis x e y
+se número igual z
+alternar os números de x para y e y para x
+
+exercício 6
+leia
+numero1= int(input("digite seu numero)
+numero2= int(input("digite seu numero)
+numero1= 8
+numero2= 6
+soma= numero1 + numero2
+soma= 8 + 6
+print("sua soma é", soma)
+sua soma é 14
+
+numero1= 3,14
+numero2= 2,78
+soma= numero1 * numero2
+print(soma)
+"Error: não foi possível ler esses números"

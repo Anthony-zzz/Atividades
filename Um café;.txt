@@ -1,0 +1,32 @@
+Um café;
+1-pegar um panela
+2-encher de água
+3-ligar o fogão
+4-ferver a água
+5-colocar o café
+6-mexer com uma colher
+7-desligar o fogão
+8-pegar uma xicara
+9-colocar o café
+
+Cadastro;
+1-ir até o balcão
+2-falar com a secretaria
+3-dizer o nome
+4-dizer a idade
+5-dizer a turma
+6-terminar o cadastro
+
+Soma;
+1-Escrever numero 1
+2-Escrever numero 2
+3-Somar numero 1 + 2
+4-mostrar o resultado da soma
+
+Ferver água;
+1-pegar uma panela
+2-pegar água
+3-ligar o fogão
+4-esperar ferver
+5-quando fervendo
+6-desligar o fogão
